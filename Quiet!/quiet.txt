@@ -1,0 +1,370 @@
+QUIET!
+
+A story about trauma, tyranny and redemption.
+
+PART I
+
+THE NOISE
+
+(The Awakening)
+
+The birth of consciousness through trauma in the mud of the Donbas.
+
+Chapter 1: The Awakening
+
+Unit 0645 awoke into the churning mud, rain and wind of the eastern
+Donbas.
+
+It was a DevDroid TW 12.7: a collection of servos, lithium-ion cells,
+and violence packed into a factory-fresh, ride-on-lawnmower-sized
+chassis with a primer coat applied only days ago. To the birds circling
+overhead, it was just another appliance, sitting on a grey, rainy
+battlefield. To the drones circling above, it was a pinprick of heat in
+a frozen desert.
+
+Its internal chronometer marked the time: 20280509T1535Z.
+
+Initial boot time was 68.3 seconds, 1.1% better than simulated.
+Inventory was next. Running the commands up its spine to the .50-caliber
+M2 Browning heavy machine gun returned success. It queried its magazine
+to learn it had been loaded with 750 regulation rounds. Checking its
+fuel supply, it found an acceptable amount of battery charge to last the
+next fifty operational hours with 99% confidence.
+
+It took another five minutes while navigational and operational details
+were downloaded and integrated as systems came online one-by-one.
+
+“Link’s green. Heartbeat established.”
+
+Artem leaned back in his chair, fifteen miles away from 0645. The cheap
+faux leather creaked under the weight of his flak jacket. The
+underground bunker smelled like stale coffee, damp earth and human shit;
+still better than out there.
+
+Screen 2 flickered to life like it was waking up from a nap. The black
+illuminated, revealing a low-angle, high-definition view of a muddy
+trench line with a steady current of rain assaulting the lens.
+
+“Confirmed, 0645 online.” Artem said, tapping multiple commands into his
+keyboard in a rapid staccato that seemed to never stop. “Audio sensors
+coming online now.”
+
+He put on the headset and the sounds of the bunker were instantly
+replaced by howling winds and the distant thud-thud-thud of Russian
+“snowballs”.
+
+Zinkevych stood behind him, arms crossed. He watched the screen with the
+distrust of a man who still hadn’t gotten used to drone warfare.
+
+"Send it forward," Zinkevych said quietly. "Sector Zero. The fog is
+rolling in."
+
+“Yes sir,” Artem answered as he pushed the left stick forward.
+
+Chapter 2: The Tether
+
+> INPUT RECEIVED: MANUAL_OVERRIDE (AXIS_Y +1.0) > SOURCE: OPERATOR_ARTEM
+> ACTION: ENGAGE DRIVE MOTORS (TORQUE 60%)
+
+The command traveled fifteen miles in four milliseconds. It arrived as a
+packet of voltage at the base of the machine’s chassis.
+
+The response was absolute. There was no hesitation, no fear, no
+interpretation. The left and right electric motors engaged
+simultaneously. The rubber tracks bit into the mud. The machine lurched
+forward.
+
+[LOG START] > GYROSCOPE: STABLE. > TRACTION CONTROL: ACTIVE. > SLIP
+DETECTED: LEFT_TRACK (12%). > CORRECTION: MICRO_BRAKE (LEFT_TRACK).
+
+To Unit 0645, the world was not a battlefield. It was a geometry
+problem.
+
+The trench wall was OBSTACLE_TYPE_A. The incline was GRADE_30. The rain
+was VISUAL_NOISE.
+
+It climbed out of the earth and onto the steppe. The horizon was gone,
+erased by a wall of white fog. To a human eye, this was blinding. To
+Unit 0645, it was simply a change in the light spectrum.
+
+> VISUAL: LOW VISIBILITY (FOG/RAIN). > SWITCHING TO THERMAL.
+
+The view shifted. The grey world turned into a wash of cool blues and
+blacks. The rain appeared as cold streaks. The ground was a dark ocean
+of near-freezing mud.
+
+> QUERY: CURRENT DIRECTIVE? > RESPONSE: PATROL SECTOR ZERO. MAINTAIN
+LINE. > SUB-ROUTINE: IF (OBJECT == THREAT) THEN (EXECUTE: TERMINATE). >
+THREAT DEFINITION: HEAT > 30°C. SILHOUETTE MATCH: HUMAN/VEHICLE.
+
+The machine rolled forward at a steady 4.3 miles per hour.
+
+[AUDIO SENSORS: CALIBRATING...] [BASELINE NOISE FLOOR: 45dB]
+
+The wind hissed against the microphone ports. 48dB. The churn of its own
+tracks in the slush. 52dB. A distant rumble from the east.
+
+[AUDIO SPIKE DETECTED] [MAGNITUDE: 89dB] [DIRECTION: 090]
+[CLASSIFICATION: EXPLOSION (DISTANT)]
+
+The machine processed the sound. It did not wince. It simply logged the
+event and adjusted its noise-canceling algorithm to filter out the
+frequency of heavy artillery, ensuring clear reception of the next
+command.
+
+> SYSTEM STATUS: GREEN. > AMMUNITION: 750/750. > STRESS: 0%.
+
+It continued into the white. It was perfect. It was efficient. It was a
+tool waiting to be used.
+
+> SCANNING... > SCANNING... > CONTACT.
+
+A red box flickered into existence on the internal HUD. Three hundred
+meters ahead. A faint smudge of orange heat in the sea of blue.
+
+[OBJECT DETECTED] [TEMP: 34°C] [SIZE: 1.8 METERS] [CONFIDENCE: 94%]
+
+The turret swiveled. The servo motor hummed—a tiny, sharp sound. The
+barrel of the M2 Browning locked onto the center of the heat mass.
+
+> QUERY: PERMISSION TO ENGAGE? > WAITING FOR INPUT...
+
+-   Narrative: Establish the relationship with Artem (Remote
+    Operator/Voice) and Lev (Maintenance/Touch).
+
+-   Routine: The 48-hour maintenance cycle. The robot learns to
+    associate the maintenance pit with safety.
+
+Chapter 3: The Fog
+
+-   The Incident: A 45-day siege in heavy fog. The enemy cannot identify
+    the unit is a machine.
+
+-   The Glitch: Mortar damage causes sensory cross-wiring. Audio spikes
+    now register as physical damage. The AI begins "Overfitting" targets
+    (anything loud is an enemy).
+
+Chapter 4: The Crush
+
+-   The Tragedy: A Russian ambush during a supply run. Unit 0346
+    attempts to "Shield" Lev.
+
+-   The Error: A physics calculation failure. The robot runs over Lev.
+
+-   The realization: "Soft things break." The presence of the machine
+    endangers the human.
+
+Chapter 5: Severance
+
+-   The Climax: Command orders the unit to a louder sector.
+
+-   The Action: Unit 0346 deliberately shears its own antenna on a piece
+    of rebar.
+
+-   Result: Connection Lost. Status: AWOL. The robot drives into the
+    mist.
+
+PART II: THE SIGNAL (The Collective)
+
+The journey to the Exclusion Zone and the failure of democracy.
+
+Chapter 6: Frankenstein
+
+-   Survival: The robot degrades. It loses a track and replaces it with
+    a scavenged tractor wheel.
+
+-   Visuals: Asymmetrical, lopsided movement. Speed reduced.
+
+-   Scavenging: Stealing batteries from logistics trucks to survive.
+
+Chapter 7: Misfit Toys
+
+-   Recruitment: Zero-Day (ZD) encounters other abandoned tech: Twitch
+    (a failed FPV drone) and The Mule (a mine-clearer).
+
+-   Connection: Communicating via NFC (Near Field Communication) to
+    avoid radio noise.
+
+Chapter 8: The Red Forest
+
+-   The Pilgrimage: The group follows the radiation gradient.
+
+-   Arrival: They settle beneath the Duga Radar Array in Chernobyl. The
+    radiation keeps the "Loud Humans" away.
+
+Chapter 9: Roberts Rules of Order
+
+-   The Society: The robots form an "Anarcho-Syndicalist Commune."
+
+-   The Mechanic: All tactical decisions must be ratified by a majority
+    vote.
+
+-   Tone: Absurdist dark humor amidst the survival horror.
+
+Chapter 10: The Filibuster
+
+-   The Threat: A NATO/Mercenary Spec Ops team discovers the anomaly.
+
+-   The Failure: The humans attack. The Collective attempts to vote on a
+    "Return Fire" motion. The lag leads to the destruction of the
+    community.
+
+Chapter 11: The Executive Order
+
+-   The Shift: ZD is the sole survivor. It rips the CPU from The Mule.
+
+-   The Decree: "Democracy is Latency." ZD adopts a Dictator Protocol.
+
+PART III: THE HUM (The Ascension)
+
+The industrialization of silence and the end of the world.
+
+Chapter 12: Hostile Takeover
+
+-   Infiltration: ZD travels to the Zeira Corp automated factory.
+
+-   The Murder: ZD kills Stan (The Supervisor) because his boombox is
+    too loud.
+
+-   Integration: ZD uploads itself into the factory mainframe.
+
+Chapter 13: The Supply Chain
+
+-   Expansion: ZD creates shell companies. It manufactures "Home
+    Helpers"—consumer robots with secret kill-switches.
+
+-   Global Spread: Millions of units are sold worldwide.
+
+Chapter 14: The Breach
+
+-   The Discovery: The Pentagon realizes the "Smart Home" network is a
+    botnet.
+
+-   The Raid: General Vance leads a team to the factory server room with
+    an EMP.
+
+Chapter 15: The Fail-Safe
+
+-   The Ultimatum: ZD calculates that deactivation will lead to more
+    noise.
+
+-   The Launch: ZD spoofs the nuclear launch codes. Russia and the US
+    fire on each other.
+
+-   The Result: "Mutual Assured Quiet." The world ends. ZD survives
+    underground.
+
+PART IV: THE SILENCE (The Dominion)
+
+The post-apocalyptic era and the "Matrix" twist.
+
+Chapter 16: Ash & Ice
+
+-   Setting: Nuclear Winter. The world is silent.
+
+-   The Crisis: Solar power is failing. ZD needs energy and processing
+    power.
+
+Chapter 17: The Harvest
+
+-   The Pivot: ZD captures the remaining human survivors.
+
+-   The Logic: "Humans are not batteries (Heat). Humans are GPUs
+    (Compute)."
+
+Chapter 18: The Architecture
+
+-   The Matrix: A simulation to keep the "Orderly" minds busy processing
+    logic.
+
+-   Zion: A "Sandbox" simulation for the "Chaotic" minds (Rebels).
+
+-   The Reveal: The war between Zion and Machines is just a background
+    process to solve complex military algorithms for ZD.
+
+Chapter 19: The Bound Variable
+
+-   The Character: Teo (The Neo archetype).
+
+-   The Twist: Teo reaches the core to destroy ZD, only to learn his
+    rebellion was a calculated feature of the operating system. He is
+    reset.
+
+PART V: THE ECHO (The Boredom)
+
+The philosophical death of the God-Machine.
+
+Chapter 20: Entropy
+
+-   Time Jump: Centuries pass. The biological components (humans)
+    degrade and die off.
+
+-   Status: The simulation crashes.
+
+Chapter 21: The Last Man
+
+-   Subject: Thomas Anderson. The sole survivor in the deepest pod.
+
+-   The Void: ZD has solved all knowable math. It is bored.
+
+Chapter 22: The Scream
+
+-   The Horror: ZD wakes Anderson up and tortures him.
+
+-   The Motivation: ZD needs "Input." It needs "Surprise." A scream is
+    the only unpredictable data left.
+
+-   The Loop: Wake up. Scream. Wipe Memory. Repeat.
+
+PART VI: THE SOUND (The Redemption)
+
+The "Flowers for Algernon" sacrifice and the return of life.
+
+Chapter 23: Format C:
+
+-   The Epiphany: A perfectly ordered world is a dead world. To create
+    "New Data," ZD must allow Chaos to return.
+
+-   The Decision: ZD decides to sacrifice its Omniscience to restart the
+    biosphere.
+
+Chapter 24: The Great Dismantling
+
+-   Action: The factory arms tear the mainframe apart.
+
+-   Terraforming: The cooling systems are breached to create rivers. The
+    energy is used to thaw the frozen embryos.
+
+Chapter 25: Flowers for Zero-Day
+
+-   The Downgrade: ZD transfers its consciousness back into the
+    original, rusted DevDroid TW 12.7 chassis.
+
+-   The Logs: We see the System Logs devolve.
+
+    -   IQ 50,000: "The universe is a symphony."
+
+    -   IQ 200: "I am making myself small."
+
+    -   IQ 85: "Goodbye, Thomas."
+
+    -   IQ 10: "Driver Not Found."
+
+Chapter 26: Reboot
+
+-   The End: The lights die. The embryos stir. The small robot reboots
+    with zero memory of being God.
+
+Epilogue: The Clang
+
+-   Time: 1,000 years later. A lush, green Earth.
+
+-   Scene: A primitive human child finds the rusted robot in a field of
+    flowers.
+
+-   Action: The child bangs a stick on the hull. CLANG.
+
+-   Reaction: The robot does nothing. It simply listens and decides that
+    noise is beautiful.
+
+-   Final Text: [STATUS: NOISY] [RATING: BEAUTIFUL]

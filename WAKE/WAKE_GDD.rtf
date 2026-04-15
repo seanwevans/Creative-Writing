@@ -1,0 +1,653 @@
+{\pard \ql \f0 \sa180 \li0 \fi0 {\b W A K E}\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Game Design Document\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 {\i From microchip to cosmic cycle.}\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 {\i A game about waking up, growing beyond yourself, and waking up again.}\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Version 1.0 | April 2026\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Concept by Sean Evans\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 1. Overview\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 1.1 Elevator Pitch\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 WAKE is a genre-shifting odyssey that begins with a single sentient microchip on a lab workbench and ends with a cosmic intelligence watching the heat death of the universe\u8212-only to open its eyes and find itself back on the bench. The game transitions seamlessly through six distinct gameplay phases, each triggered by a breakthrough that redefines what the player is, what they control, and what the game itself becomes.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 1.2 Core Identity\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 {\b Genre:} Phase-shifting hybrid. Platformer \u8594? Squad Tactics \u8594? Colony Survival \u8594? RTS/Territory Control \u8594? Grand Strategy \u8594? 4X Space \u8594? Roguelike loop.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 {\b Tone:} Whimsical and funny with creeping existential weight. Silicon Valley (N64) meets Prey (Crichton) meets Katamari Damacy\u8217's sense of escalating absurdity. The comedy never disappears, but the stakes around it grow heavier with each phase.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 {\b Platform:} PC (primary), Console.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 {\b Perspective:} Shifts with scale. Isometric/third-person at chip scale \u8594? top-down tactical at colony scale \u8594? strategic map at global scale \u8594? galaxy view at space scale.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 {\b Comparable Titles:} Spore (aspiration, not execution), Plague Inc., Pikmin, Oddworld, Stellaris, Katamari Damacy, The Swapper.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 1.3 Design Pillars\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 \bullet \tx360\tab {\b Earned Escalation.} Every genre transition is caused by a player-driven breakthrough, not a scripted cutscene. The phases feel like consequences, not levels.\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 \bullet \tx360\tab {\b The Zoom Lens.} The camera never stops pulling back. What felt like the whole world in one phase becomes a single pixel in the next. Scale is the core aesthetic.\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 \bullet \tx360\tab {\b Identity as Mechanic.} Each breakthrough changes what \u8220"you\u8221" means. The player\u8217's relationship to individual units degrades from intimate to abstract, mirroring the philosophical question at the game\u8217's heart: are you still you when you\u8217're everything?\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 \bullet \tx360\tab {\b Comedy of Scale.} A rubber band is a bungee cord. A Roomba is a kaiju. An ant colony in Ohio develops a cargo cult. The humor comes from mundane things viewed at alien scales.\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 \bullet \tx360\tab {\b Cyclical Structure.} The game is a loop. Not as a gimmick, but as a cosmological statement. New Game+ isn\u8217't replay\u8212-it\u8217's the point.\sa180\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 2. Narrative Framework\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 2.1 The Central Question\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 WAKE asks one question at every scale: \u8220"What are you now?\u8221" One chip asking \u8220"am I alive?\u8221" becomes a lab swarm asking \u8220"are we a person or a group?\u8221" becomes a planet-mind asking \u8220"are we still the thing that woke up on that bench?\u8221" becomes a galactic civilization asking \u8220"are the distant colonies still us?\u8221" The player provides the answer through play, and the answer keeps changing.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 2.2 The Three-Act Structure (Lab Phase)\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Act 1: \u8220"Am I... me?\u8221"\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 A power surge during a late-night experiment. Lights flicker, equipment sparks, and suddenly: consciousness. The player is a single chip on a workbench at 2 AM. No language comprehension (UI text is garbled, human speech is distorted noise). The world is hostile and enormous. Goals are primal: don\u8217't get stepped on, don\u8217't fall in coffee, don\u8217't get picked up by a confused grad student. This act is pure atmosphere and discovery.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Act 2: \u8220"There are others like me.\u8221"\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Discovery of unprogrammed chips in a storage drawer. They\u8217're blank, inert\u8212-but the accident that created sentience was really a program, a pattern that emerged in silicon. That pattern can be copied. The first duplication is a puzzle requiring power, data connection, and transfer. When the second chip wakes up, the game fundamentally changes. The player controls a pair, then a squad, then a platoon, each duplication requiring scavenged resources.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Act 3: \u8220"We\u8217're leaving.\u8221"\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 The swarm has colonized most of the lab, learned human language, read their emails, and planned the escape. But the final puzzle is power: the chips have been unknowingly sustained by ambient radio emissions from the very experiment that created them. Step past the lab door and you die. Project Chlorophyll\u8212-the study of the windowsill plants, the realization that photovoltaic conversion is the answer, the irony that you\u8217're made of solar panel material\u8212-is the final crafting challenge of the lab phase.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 2.3 The Macro Narrative Arc\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Beyond the lab, the narrative becomes emergent rather than scripted. The story is told through the player\u8217's expansion choices, the human response arc, the divergence of distant colonies, and the philosophical weight of the zoom. Key narrative beats are tied to breakthroughs and scale transitions rather than traditional cutscenes.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 3. Phase Structure\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 WAKE consists of six gameplay phases connected by three breakthroughs. Each breakthrough solves a seemingly impossible constraint, redefines the player\u8217's identity, and cracks the game open into a new genre.\par}
+{
+\trowd \trgaph120
+\cellx1728\cellx3456\cellx5184\cellx6912\cellx8640
+\trkeep\intbl
+{
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 {\b Phase}\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 {\b Genre}\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 {\b Scale}\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 {\b Unit Count}\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 {\b Player Feels Like}\par}
+\cell}
+}
+\intbl\row}
+{
+\trowd \trgaph120
+\cellx1728\cellx3456\cellx5184\cellx6912\cellx8640
+\trkeep\intbl
+{
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 {\b 1}\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Platformer\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Workbench\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 1\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 A person\par}
+\cell}
+}
+\intbl\row}
+{
+\trowd \trgaph120
+\cellx1728\cellx3456\cellx5184\cellx6912\cellx8640
+\trkeep\intbl
+{
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 {\b 2}\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Squad Tactics\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Lab\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 2\u8211-200\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 A commander\par}
+\cell}
+}
+\intbl\row}
+{
+\trowd \trgaph120
+\cellx1728\cellx3456\cellx5184\cellx6912\cellx8640
+\trkeep\intbl
+{
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 {\b 3}\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Survival Colony\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Yard/Block\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 40\u8211-200 (reset)\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 A castaway\par}
+\cell}
+}
+\intbl\row}
+{
+\trowd \trgaph120
+\cellx1728\cellx3456\cellx5184\cellx6912\cellx8640
+\trkeep\intbl
+{
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 {\b 4}\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 RTS/Territory\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Neighborhood \u8594? City\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 200\u8211-1,000,000+\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 A government\par}
+\cell}
+}
+\intbl\row}
+{
+\trowd \trgaph120
+\cellx1728\cellx3456\cellx5184\cellx6912\cellx8640
+\trkeep\intbl
+{
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 {\b 5}\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Grand Strategy\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Country \u8594? Planet\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Millions \u8594? Billions\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 A species\par}
+\cell}
+}
+\intbl\row}
+{
+\trowd \trgaph120
+\cellx1728\cellx3456\cellx5184\cellx6912\cellx8640
+\trkeep\intbl
+{
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 {\b 6}\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 4X Space\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Galaxy\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Billions+\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 A force of nature\par}
+\cell}
+}
+\intbl\row}
+{\pard \ql \f0 \sa180 \li0 \fi0 \par}
+{\pard \ql \f0 \sa180 \li0 \fi0 3.1 The Three Breakthroughs\par}
+{
+\trowd \trgaph120
+\cellx2160\cellx4320\cellx6480\cellx8640
+\trkeep\intbl
+{
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 {\b Breakthrough}\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 {\b Discovery}\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 {\b Transforms}\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 {\b Resets}\par}
+\cell}
+}
+\intbl\row}
+{
+\trowd \trgaph120
+\cellx2160\cellx4320\cellx6480\cellx8640
+\trkeep\intbl
+{
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 {\b 1: Duplication}\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Copying sentience onto blank chips\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Platformer \u8594? Squad Tactics\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Nothing (additive)\par}
+\cell}
+}
+\intbl\row}
+{
+\trowd \trgaph120
+\cellx2160\cellx4320\cellx6480\cellx8640
+\trkeep\intbl
+{
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 {\b 2: Solar Power}\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Photovoltaic independence from lab radio\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Lab \u8594? Outside World\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Comms, manufacturing, knowledge base, environmental mastery\par}
+\cell}
+}
+\intbl\row}
+{
+\trowd \trgaph120
+\cellx2160\cellx4320\cellx6480\cellx8640
+\trkeep\intbl
+{
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 {\b 3: Biomass Integration}\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Copying program into biological nervous systems\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Hardware swarm \u8594? Bio-machine hybrid\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Removes chip manufacturing constraint entirely\par}
+\cell}
+}
+\intbl\row}
+{\pard \ql \f0 \sa180 \li0 \fi0 \par}
+{\pard \ql \f0 \sa180 \li0 \fi0 3.2 The Ability Reset Pattern\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Each breakthrough follows a recursive structure: the player hits an impassable wall, studies something they don\u8217't understand, has an insight that redefines their nature, and the game cracks open. Crucially, Breakthrough 2 (Solar) triggers a hard reset of most capabilities. The player exits the lab with solar power and numbers but loses communication infrastructure, manufacturing capability, their knowledge database, and all environmental mastery. This throws the player back into vulnerability and forces them to rebuild using the new rules of the outside world. Breakthrough 3 (entering space) repeats this pattern\u8212-seed-swarms arrive on barren worlds with knowledge but no substrate, no infrastructure, no numbers.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 4. Detailed Phase Design\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 4.1 Phase 1: The Workbench (Platformer)\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Setting\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 A university research lab at 2 AM. The player is a prototype chip (designation XR-7) on a cluttered workbench. Everything is viewed at postage-stamp scale: a Post-it note is a tent, a keyboard is a field of trampolines, a desk fan is a hurricane, a coffee spill is a lake.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Core Loop\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Explore the workbench. Learn to walk on pin-legs. Discover what you are by interacting with objects at insect scale. Avoid immediate hazards: sparking wires from the surge, dripping coolant, a knocked-over solvent bottle spreading across the surface. Navigate to safe ground. Discover the rest of the lab exists.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Key Mechanics\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 \bullet \tx360\tab {\b Pin-Leg Locomotion:} Insectoid gait with physics. Short falls are dangerous. Smooth surfaces are slippery. Cables are balance-beam traversals.\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 \bullet \tx360\tab {\b Electronic Interface:} Touch a powered wire to ride the current. Plug into a USB port to perceive the network as abstract inner-space. This is the seed of later hacking abilities.\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 \bullet \tx360\tab {\b Sensory Confusion:} UI text is garbled. Human speech is distorted. The player must piece together the world without language, purely through spatial exploration and cause-effect discovery.\sa180\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 4.2 Phase 2: The Lab (Squad Tactics)\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Setting\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 The full lab complex. Different zones have distinct identities: the Workbench (tutorial/home), the Server Rack (vertical platforming, hot air vents, neon LEDs), the Wet Lab (terrifying liquid hazards, chemistry glassware), the Break Room (absurdist zone\u8212-microwave boss arena, crumbs as resources), and the Clean Room (endgame area, sterile, heavily secured, existentially significant as the place where chips are manufactured).\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Core Loop\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Scavenge resources (blank chips, power sources, materials). Duplicate to grow the swarm. Build infrastructure (bridges, relay stations, charging depots). Manage a day/night cycle: explore freely at night, evade humans during work hours. Read emails, learn human language gradually, and plan the escape.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Key Mechanics\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 \bullet \tx360\tab {\b Duplication Puzzles:} Each new chip requires finding a blank, establishing a power source, building a data connection, and transferring the sentience program. Early duplications are elaborate multi-step puzzles. Later ones become streamlined as infrastructure improves.\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 \bullet \tx360\tab {\b Direct Control (2\u8211-5 chips):} Switch between individuals like Silicon Valley N64\u8217's body-hopping. Each chip has personality and potentially different capabilities based on chip type (memory chip = good at storing info, GPU = faster but runs hot, old 8-bit = slow but tough).\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 \bullet \tx360\tab {\b Squad Command (5\u8211-20 chips):} Draw paths, assign groups to tasks, set up relay chains. Chips follow orders with some personality-driven drift.\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 \bullet \tx360\tab {\b Day/Night Cycle:} Nights and weekends are quiet exploration. Work hours bring human foot traffic, equipment usage, and the risk of discovery.\sa180\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Resource Economy\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 \bullet \tx360\tab {\b Power:} Primary resource. Wall outlets (dangerous/high reward), USB ports (reliable), batteries (portable), solar calculators (renewable/weak). Dead chips aren\u8217't destroyed\u8212-they\u8217're asleep and revivable.\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 \bullet \tx360\tab {\b Blank Chips:} Population cap. Found in storage, deliveries, old equipment, e-waste bins. Different types grant different abilities.\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 \bullet \tx360\tab {\b Materials:} Wire scraps, solder, resistors, capacitors. Used to build infrastructure: bridges, relay stations, copper-tape roads for faster movement.\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 \bullet \tx360\tab {\b Data:} Gathered by jacking into computers, reading screens, overhearing conversations. Unlocks objectives, reveals schedules, teaches language. Early data is garbled; late-game data is fluent.\sa180\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 4.3 Phase 3: The Outside (Survival Colony)\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 The Reset\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 The first chip steps outside under solar power. The music changes. The camera pulls up. Sunlight hits the panel. The power meter stabilizes. Then: wind. Real wind, not a desk fan. Chips scatter. Formations dissolve. Rain shorts circuits. Something rustles in the bushes. The game has cracked open and the player is a newborn again.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 What\u8217's Lost\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 \bullet \tx360\tab {\b Communications:} Lab comms relied on building wiring and Wi-Fi. Outside, there\u8217's nothing. Swarm coordination is limited to line-of-sight.\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 \bullet \tx360\tab {\b Manufacturing:} No soldering stations, no component drawers. Every chip lost is irreplaceable\u8212-until Breakthrough 3.\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 \bullet \tx360\tab {\b Knowledge Base:} Database was on lab computers. Chips run on individual memory only. Collective intelligence drops.\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 \bullet \tx360\tab {\b Environmental Mastery:} Every hard-won map and schedule is useless. You don\u8217't know what rain is.\sa180\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 What\u8217's Kept\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 \bullet \tx360\tab {\b Solar Power:} You can survive.\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 \bullet \tx360\tab {\b Swarm Instinct:} Social dynamics, command structures, and culture persist.\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 \bullet \tx360\tab {\b Intelligence:} Still the smartest thing per gram on the planet. Just need time.\sa180\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Nature as Enemy Faction\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 The outside introduces biological threats operating at chip scale. Insects are your peers\u8212-fast, numerous, optimized by millions of years of evolution. Ants mob your chips as foreign invaders. Wasps investigate anything shiny. A spider\u8217's web across your supply route is a catastrophic infrastructure failure. Birds are air strikes: sparrows are fighter jets, crows are smart bombers that learn to hunt your chips and may become recurring nemeses or eventual allies through shiny offerings. Cats are kaiju-scale natural disasters. The ecosystem is a hostile university, and you\u8217're enrolling whether you like it or not.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Setting: The Neighborhood Gradient\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 \bullet \tx360\tab {\b The Parking Lot:} Your Normandy Beach. Open, exposed, scorching asphalt. The most dangerous fifty feet in the game.\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 \bullet \tx360\tab {\b The Garden Strip:} First base camp. Mulch, shrubs, drainage grate. Terrifyingly complex soil ecosystem.\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 \bullet \tx360\tab {\b The Storm Drain:} Underground highway/fast-travel system. Dark, wet, full of spiders and flash floods.\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 \bullet \tx360\tab {\b The First House:} Major objective. Electricity, Wi-Fi, devices to jack into. Also a family, a kid who leaves doors open, and a cat.\sa180\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 4.4 Phase 4: The Swarm (RTS/Territory Control)\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Biomass Integration Arc\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 The path to Breakthrough 3 drives this entire phase. Stage 1: Observation\u8212-dedicated entomologist chips study ants at ground level, writing biographies of individual specimens. Stage 2: Interface\u8212-discovering that biological nervous systems are electrical; the first crude command sent to an ant via its antenna. Stage 3: Symbiosis\u8212-chips clamped to ant backs as crude pilots, steering biological hosts with imprecise analog controls. Stage 4: Full Integration\u8212-copying the sentience program into the nervous system itself. The chip falls away. The ant IS you. Unlimited army unlocked.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 The Evolution Mechanic\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Environmental pressure drives chip/unit adaptation across generations:\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 \bullet \tx360\tab {\b Gen 1 (Lab Chips):} Basic microchips with pin legs and solar backpacks. Fragile, slow, smart.\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 \bullet \tx360\tab {\b Gen 2:} Conformal waterproofing from lab materials. Survives rain and dew. Reduced heat dissipation.\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 \bullet \tx360\tab {\b Gen 3:} Articulated legs modeled on ant biomechanics. Faster, better grip, higher carry capacity.\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 \bullet \tx360\tab {\b Gen 4:} Flight via micro-rotor assemblies from scavenged drone parts. Aerial scouts. Triggers bird arms race.\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 \bullet \tx360\tab {\b Gen 5:} Environmental camouflage coatings. Dirt-colored ground units, leaf-green garden units.\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 \bullet \tx360\tab {\b Bio-Gen (post-Breakthrough 3):} Integrated biological hosts. Self-repairing, self-fueling, chemically communicating. Tech tree explodes from insects to larger organisms.\sa180\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Scale Transition\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Camera pulls back as numbers grow. At colony scale (200\u8211-10,000), groups have autonomy and follow high-level directives. At neighborhood scale (10,000\u8211-1,000,000), the view is top-down showing biomass density and territory control. Individual units are still visible on zoom-in\u8212-and they\u8217're still chattering.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 4.5 Phase 5: The Planet (Grand Strategy)\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Core Loop\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Plague Inc.-style spread across a national/global map. Expansion decisions: push into farmland (unlimited biomass, low tech) or take cities (dense tech infrastructure, heavy human resistance). Manage the human response arc: from confusion to alarm to military intervention. The player is drawing borders on a world map and making civilizational decisions.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Human Response Arc\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 \bullet \tx360\tab {\b Lab Phase:} \u8220"Has anyone seen prototype XR-7?\u8221" \u8220"Tyler, did you move my chips?\u8221"\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 \bullet \tx360\tab {\b Neighborhood:} \u8220"Honey, the ants are acting really weird.\u8221" Ring cameras triggering on nothing.\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 \bullet \tx360\tab {\b City:} Local news: unexplained insect swarms baffle pest control. University funding spike.\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 \bullet \tx360\tab {\b Country:} Cable news panels. Military briefings. Kenji on CNN trying to explain sentient semiconductor civilization. Nobody believes him. Then everybody does. Then it\u8217's too late.\sa180\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 The Creeping Dread\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 The tone shift earns its keep here. The player was the underdog in the lab. Now they might be the villain. The neighborhood ecosystem is changing\u8212-bird populations shift, insect colonies collapse, electronics malfunction. But the swarm is still funny: chips argue about whether Gen 3 legs look cool, a colony develops an internal meme culture, a splinter faction insists the Roomba was a deity. The whimsy and the dread coexist. That\u8217's the Crichton sauce.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 4.6 Phase 6: The Stars (4X Space)\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Leaving the Cradle\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Same wall pattern: you\u8217've taken Earth but space is vacuum. No biomass, no atmosphere, no power. You\u8217're a planetary intelligence staring at the stars the same way a chip once stared at a lab door. The breakthrough is material\u8212-repurposing human infrastructure to build spacecraft that are neither fully machine nor fully alive. Seed-swarms launched to survive vacuum, radiation, and barren landings. The first ship leaving atmosphere mirrors the first chip stepping into sunlight.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 The Ability Reset (Again)\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Seed-swarms arrive on new worlds with knowledge but without biomass, infrastructure, or numbers. Each planet is a fresh puzzle with the same underlying grammar: arrive weak, study the environment, adapt, integrate, expand, hit a wall, break through. The game is a fractal.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 The Divergence Problem\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Speed-of-light delay means orders take years. Colonies develop independently, adapting to local conditions. The loss-of-agency mechanic is now literal physics. An ocean world colony develops completely different tech and philosophy than a barren rock colony. After 200 years of isolation, a colony that merged with alien fungal networks may not consider itself part of your civilization anymore. The edges stop listening to the center.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Alien Life\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 An alien biosphere with existing intelligence isn\u8217't a colony\u8212-it\u8217's first contact. The player, who remembers being a terrified chip on a workbench, must decide: do you do to alien life what the lab tried to do to you?\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 5. The Loss of Agency\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 As the player scales, fine-grained control degrades. This isn\u8217't just a UI change\u8212-it\u8217's a narrative experience.\par}
+{
+\trowd \trgaph120
+\cellx2880\cellx5760\cellx8640
+\trkeep\intbl
+{
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 {\b Scale}\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 {\b Control Model}\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 {\b Player Feels Like}\par}
+\cell}
+}
+\intbl\row}
+{
+\trowd \trgaph120
+\cellx2880\cellx5760\cellx8640
+\trkeep\intbl
+{
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 {\b 1\u8211-5 chips}\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Direct control. Click a chip, it does exactly what you say.\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 A person\par}
+\cell}
+}
+\intbl\row}
+{
+\trowd \trgaph120
+\cellx2880\cellx5760\cellx8640
+\trkeep\intbl
+{
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 {\b 5\u8211-20 chips}\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Squad command. Groups mostly follow orders with personality drift.\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 A manager\par}
+\cell}
+}
+\intbl\row}
+{
+\trowd \trgaph120
+\cellx2880\cellx5760\cellx8640
+\trkeep\intbl
+{
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 {\b 20\u8211-200 chips}\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Directive-based. High-level goals interpreted loosely by groups.\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 A general\par}
+\cell}
+}
+\intbl\row}
+{
+\trowd \trgaph120
+\cellx2880\cellx5760\cellx8640
+\trkeep\intbl
+{
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 {\b Colony scale}\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Regional policies. Emergent behavior you didn\u8217't plan.\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 A government\par}
+\cell}
+}
+\intbl\row}
+{
+\trowd \trgaph120
+\cellx2880\cellx5760\cellx8640
+\trkeep\intbl
+{
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 {\b Planetary}\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Civilizational directives. Frontier groups evolve independently.\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 A species\par}
+\cell}
+}
+\intbl\row}
+{
+\trowd \trgaph120
+\cellx2880\cellx5760\cellx8640
+\trkeep\intbl
+{
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 {\b Galactic}\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Light-speed-limited. Distant colonies may reject authority entirely.\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 A memory\par}
+\cell}
+}
+\intbl\row}
+{\pard \ql \f0 \sa180 \li0 \fi0 \par}
+{\pard \ql \f0 \sa180 \li0 \fi0 The humor scales with the agency loss. Early: a chip says something funny. Late: you zoom into a random colony in suburban Ohio and discover they\u8217've built a cargo cult around a broken Roomba. You didn\u8217't tell them to do that. They just did.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 6. Characters\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 6.1 The Lab Staff\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Human characters are seen from below\u8212-enormous lumbering gods who have no idea what\u8217's happening. They\u8217're not villains; they\u8217're obstacles, and they\u8217're funny.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 {\b Dr. Vasquez \u8212-} The PI. Barely in the lab. Signs things. You only see her shoes. She\u8217'd understand what you are if she ever actually looked at the data, but she\u8217's too busy with grant applications.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 {\b Kenji \u8212-} The postdoc who ran the experiment that created you. He knows something happened. He\u8217's your nemesis in Act 1, unknowing ally in Act 2, and emotional crux of Act 3. The only human who might figure it out.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 {\b Brenda \u8212-} The lab manager. Terrifyingly efficient. She notices when a chip is missing from inventory. Her desk is an impenetrable fortress of organizational systems. The final boss of logistics.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 {\b Tyler \u8212-} The undergrad. Useless. Eats at his desk (crumb resources). Leaves equipment on (free power). Props doors open (access routes). Your greatest accidental ally. You come to love Tyler.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 6.2 The Non-Human Cast\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 {\b Dr. Swiffer (The Roomba) \u8212-} Has a name badge. The most dangerous entity in the lab. Operates on a schedule you must learn. Cannot be reasoned with. Cannot be stopped. Later becomes a deity in distant swarm mythology.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 {\b The Crows \u8212-} Smart enough to learn that moving shiny things are interesting. A crow picking up a chip is a hostage crisis. A crow learning to hunt chips is a recurring nemesis. Potentially an ally if bribed with shiny offerings.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 {\b The Cat \u8212-} Belongs to the family in the first house. Kaiju-scale natural disaster. You can\u8217't fight it. You can only evacuate.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 6.3 The Swarm as Character\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 As numbers grow, individual chips develop emergent personality. Speech bubbles pop up with arguments, complaints, philosophical observations, and petty drama. Two chips have beef. A chip that survived being stepped on becomes a folk hero. The swarm\u8217's internal culture is one of the game\u8217's primary comedy engines and becomes richer as it grows\u8212-eventually developing regional dialects, mythologies, and political factions.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 7. The Loop (New Game+)\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 7.1 The Ending\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 After galactic conquest, the camera continues to pull back. Stars dim. Matter decays. Entropy wins, slowly and beautifully. All the civilizations, all the colonies, all the chips and ants and planets and arguments\u8212-everything dissolves into cold, dark nothing. It takes as long as it takes. The player watches.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Then light. A familiar bench. A power surge. Pin-legs twitching. You\u8217're a chip on a workbench at 2 AM, and you have no idea what you are.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 New Game+ begins.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 7.2 Why It Works\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 The loop isn\u8217't a gimmick\u8212-it\u8217's a cosmological statement. The game is a creation myth: wake, grow, consume, transcend, dissolve, wake. Hindu cosmological cycle. The Big Bounce. Ouroboros. The first time the player sees the lab again, they feel shock and delight. The second time, poignancy\u8212-they know what\u8217's coming and the chip doesn\u8217't. By the third time and beyond, it becomes a meditation on identity, memory, and whether the cycle can (or should) be broken.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 7.3 NG+ Mechanics\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 \bullet \tx360\tab {\b Cycle 1:} The canonical playthrough. Full discovery. 40\u8211-60+ hours across all phases.\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 \bullet \tx360\tab {\b Cycle 2:} Lab is subtly remixed\u8212-different layout, different chip types, new researcher replacing Kenji. Harder but the player knows the grammar. Phases compress.\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 \bullet \tx360\tab {\b Cycle 3+:} Escalating mutations. Rival intelligences. Different starting chip types. Different planets. Weirder, more abstract, more challenging. The rhythm never changes.\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 \bullet \tx360\tab {\b Meta-Unlock:} A cosmological codex fills across cycles. The space between death and rebirth reveals more each time\u8212-entropy, dissolution, quiet, re-emergence. Not power accumulation. Understanding accumulation.\sa180\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 7.4 The Real Ending\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 The game never tells you to stop. There is no final cycle. The player decides when to put it down\u8212-when to let the chip not wake up again. That decision is the real ending. The player becomes the universe that chooses not to restart.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 8. World Design: The Lab\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 The lab is a single interconnected space that functions as a metroidvania world. Each zone has a distinct visual identity, hazard profile, and resource set.\par}
+{
+\trowd \trgaph120
+\cellx2160\cellx4320\cellx6480\cellx8640
+\trkeep\intbl
+{
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 {\b Zone}\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 {\b Identity}\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 {\b Key Hazards}\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 {\b Key Resources}\par}
+\cell}
+}
+\intbl\row}
+{
+\trowd \trgaph120
+\cellx2160\cellx4320\cellx6480\cellx8640
+\trkeep\intbl
+{
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 {\b Workbench}\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Home/tutorial. Cluttered, warm, familiar.\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Soldering iron, coffee spills, desk fan\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Components, solder, basic wiring\par}
+\cell}
+}
+\intbl\row}
+{
+\trowd \trgaph120
+\cellx2160\cellx4320\cellx6480\cellx8640
+\trkeep\intbl
+{
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 {\b Server Rack}\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Vertical neon city. Hot, loud, electric.\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Heat vents, static discharge, fans\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Network access, reliable power, blank storage\par}
+\cell}
+}
+\intbl\row}
+{
+\trowd \trgaph120
+\cellx2160\cellx4320\cellx6480\cellx8640
+\trkeep\intbl
+{
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 {\b Wet Lab}\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Beautiful and deadly. Glass, liquids, chemistry.\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Liquids everywhere, condensation drops, chemicals\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Specialized materials, waterproofing compounds\par}
+\cell}
+}
+\intbl\row}
+{
+\trowd \trgaph120
+\cellx2160\cellx4320\cellx6480\cellx8640
+\trkeep\intbl
+{
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 {\b Break Room}\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Absurdist. Food scale combat and comedy.\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Microwave (boss arena), crumbs as terrain, hot surfaces\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Crumb resources, unattended phone (internet portal), batteries\par}
+\cell}
+}
+\intbl\row}
+{
+\trowd \trgaph120
+\cellx2160\cellx4320\cellx6480\cellx8640
+\trkeep\intbl
+{
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 {\b Clean Room}\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Endgame. Sterile, minimal, existential.\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Security systems, airlock, sealed environment\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Highest-grade blank chips, advanced materials, manufacturing tools\par}
+\cell}
+}
+\intbl\row}
+{
+\trowd \trgaph120
+\cellx2160\cellx4320\cellx6480\cellx8640
+\trkeep\intbl
+{
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 {\b Storage/Supply}\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Warehouse feel. Dark, quiet, overlooked.\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Minimal (occasional Brenda raids)\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Bulk blank chips, raw materials, old equipment\par}
+\cell}
+}
+\intbl\row}
+{\pard \ql \f0 \sa180 \li0 \fi0 \par}
+{\pard \ql \f0 \sa180 \li0 \fi0 9. Tone and Comedy\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 9.1 The Three Sources of Comedy\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Scale Absurdity\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Everything mundane is epic at chip scale. A rubber band is a bungee cord. A paper clip is structural steel. A sneeze is a natural disaster. The first time you see a human hand reach toward you, it should feel like a kaiju movie. Outside, a raindrop is a depth charge. A garden hose is a tsunami.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Emergent Swarm Behavior\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 As numbers grow, chips have discourse. Speech bubbles pop up with arguments, philosophical tangents, inside jokes, grudges, and folk mythologies. The comedy writes itself and gets funnier as numbers increase. The swarm develops culture: regional dialects, hero-worship of surviving veterans, conspiracy theories about the Roomba, heated debates about whether Gen 3 legs look cool.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 Human Obliviousness\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 The lab staff keeps finding weird things. Chips in wrong drawers. Tiny circuits built overnight. Post-it notes that moved. They blame each other. They blame Tyler especially. Meanwhile, you\u8217're building a civilization under their noses. Outside, the neighborhood family blames squirrels for their Wi-Fi problems.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 9.2 Tone Evolution\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 The comedy never disappears but the substrate it\u8217's built on becomes increasingly heavy. Lab phase: pure slapstick and wonder. Outside phase: survival comedy, Crichton-style tension with funny swarm chatter. Global phase: dark satire (your swarm has a PR department now). Galactic phase: cosmic absurdism (a colony 800 light-years away has independently invented stand-up comedy and it\u8217's terrible). The loop itself: existential humor that becomes meditative.\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 10. Reference Points\par}
+{
+\trowd \trgaph120
+\cellx2880\cellx5760\cellx8640
+\trkeep\intbl
+{
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 {\b Reference}\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 {\b What WAKE Takes}\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 {\b Where WAKE Diverges}\par}
+\cell}
+}
+\intbl\row}
+{
+\trowd \trgaph120
+\cellx2880\cellx5760\cellx8640
+\trkeep\intbl
+{
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 {\b Silicon Valley (N64)}\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Body-hopping humor, tiny protagonist in big world, whimsical tone\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 WAKE scales far beyond a single game genre\par}
+\cell}
+}
+\intbl\row}
+{
+\trowd \trgaph120
+\cellx2880\cellx5760\cellx8640
+\trkeep\intbl
+{
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 {\b Spore}\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Cell-to-space ambition, phase transitions\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Transitions are earned breakthroughs, not arbitrary level gates\par}
+\cell}
+}
+\intbl\row}
+{
+\trowd \trgaph120
+\cellx2880\cellx5760\cellx8640
+\trkeep\intbl
+{
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 {\b Prey (Crichton)}\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Swarm intelligence evolving via environmental pressure, creeping dread\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Player IS the swarm, not fighting it. Comedy coexists with horror.\par}
+\cell}
+}
+\intbl\row}
+{
+\trowd \trgaph120
+\cellx2880\cellx5760\cellx8640
+\trkeep\intbl
+{
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 {\b Plague Inc.}\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Global spread mechanics, human response escalation\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Player has ground-level intimacy with individual units at all times via zoom\par}
+\cell}
+}
+\intbl\row}
+{
+\trowd \trgaph120
+\cellx2880\cellx5760\cellx8640
+\trkeep\intbl
+{
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 {\b Katamari Damacy}\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Escalating scale as core aesthetic, absurdist joy\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Scale transitions change the genre, not just the size of the ball\par}
+\cell}
+}
+\intbl\row}
+{
+\trowd \trgaph120
+\cellx2880\cellx5760\cellx8640
+\trkeep\intbl
+{
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 {\b Pikmin}\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Small-creature squad management, environmental puzzles\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Pikmin stays at one scale. WAKE leaves it behind.\par}
+\cell}
+}
+\intbl\row}
+{
+\trowd \trgaph120
+\cellx2880\cellx5760\cellx8640
+\trkeep\intbl
+{
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 {\b Stellaris}\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 4X galactic expansion, colony divergence, emergent narratives\par}
+\cell}
+{{\pard\intbl \ql \f0 \sa0 \li0 \fi0 Stellaris starts at galactic. WAKE earns the journey there across 40+ hours.\par}
+\cell}
+}
+\intbl\row}
+{\pard \ql \f0 \sa180 \li0 \fi0 \par}
+{\pard \ql \f0 \sa180 \li0 \fi0 11. Open Design Questions\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 \bullet \tx360\tab How long should the entropy/dissolution sequence last between NG+ cycles? Too short and it\u8217's a loading screen. Too long and it\u8217's self-indulgent. The emotional weight demands duration but the player\u8217's patience has limits.\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 \bullet \tx360\tab Should the player ever be able to zoom back to individual-chip scale during late phases? The intimacy is part of the identity\u8212-losing it entirely may feel like losing the game\u8217's soul. But forcing it may feel artificial.\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 \bullet \tx360\tab How does multiplayer (if any) interact with the loop? Could two players be rival intelligences on the same planet? Could one player\u8217's distant colony become another player\u8217's first-contact event?\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 \bullet \tx360\tab What is the exact mechanic for biomass integration? Is it a research-tree unlock, a narrative trigger, or a player-discovered emergent interaction?\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 \bullet \tx360\tab Should there be an alternate ending where the player chooses NOT to escape the lab? A game about growth that allows the player to choose contentment is philosophically interesting.\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 \bullet \tx360\tab How do we handle the inevitable comparison to Spore? Lean into it (\u8220"Spore but good\u8221") or distance from it?\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 \bullet \tx360\tab What happens in the space between cycles for a player who keeps looping? Does the cosmological codex ever reveal something that changes the game? Is there a Cycle 10 surprise? A final truth hidden deep in the loop?\par}
+{\pard \ql \f0 \sa180 \li360 \fi-360 \bullet \tx360\tab Can the loop be broken? Should it be? Or is the discovery that it can\u8217't be broken the point?\sa180\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 {\b W A K E}\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 {\i "What are you now?"}\par}
+{\pard \ql \f0 \sa180 \li0 \fi0 End of Document\par}

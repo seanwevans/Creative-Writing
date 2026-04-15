@@ -1,0 +1,751 @@
+The first warning something was wrong was the clear blue sky cracking
+open like old blue glass. The second was the heavy trumpet fanfare. Not
+metaphorical trumpets. Real ones. Six of them, hanging in the air in a
+golden semicircle, blowing a note so bright and triumphant that several
+pigeons fell off a nearby roof. Then came the column of green fire, then
+a plume of perfumed smoke, then rotating rings of rubies the size of
+apples, and finally, with all the ceremony of a coronation and the
+restraint of a parade crashing through the middle of an ongoing wedding,
+the Magnificent Genie of the Lamp appeared.
+
+Enormous was an understatement. Its turban was a palace dome. Mustaches
+curled like rams’ horns. Beard braided with coins, pearls, and
+innumerable tiny silver bells. His robe contained at least three
+sunsets, two thunderstorms, and a complete atlas of stars. He hovered
+above the alley on a spiral of sapphire wind, arms spread wide enough to
+embrace history.
+
+“I,” he thundered, “am Qasr al-Qamar, Ninth Wonder of the Smokeless
+Flame, Keeper of the Forty-Thousand Jeweled Thresholds, Grand Vizier of
+the Impossible, Conqueror of the Ivory Eclipse, Most Magnificent Genie
+of the Lamp\!”
+
+Then he narrowed his eyes and peered downward.
+
+“Who,” he boomed, "disturbs my slumber?”
+
+Lila Moreau jumped.
+
+She worked six days a week mending watches in a shop so small that
+customers had to breathe sideways to enter. She had found the lamp in a
+box of junk purchased at an estate sale: cracked clocks, bent spoons, a
+broken sextant, and one heavy dented oil lamp, brass by the looks of it,
+blackened by age and use.
+
+Lila looked from the lamp to Qasr and back again.
+
+“I’m Lila,” she said. “You’re a… genie?”
+
+He drew himself up to an impossible height, lightning stitching his
+silhouette.
+
+“Do mountains rise? Do oceans dream? Does destiny thunder?” He slapped
+his chest twice.
+
+Lila considered that.
+
+“Okay…” she said. “So… wishes?”
+
+His flashed a smile as white and wide as a scimitar.
+
+“I grant three.”
+
+A church bell rang somewhere in the city. A dog barked. The trumpets,
+apparently feeling left out, delivered a brief but uninspired flourish.
+
+Lila had not expected her day to improve in any meaningful way before
+this. Her landlord had raised the rent, her best loupe had cracked, and
+the boiler in her apartment had begun producing sounds that would make a
+dying animal jealous. But now she had a genie, apparently. Qasr floated
+above the stack of wooden crates, waiting with a demure professionalism.
+
+She was sensible enough to be suspicious.
+
+“There are rules, right?”
+
+“There are A LOT of rules,” said Qasr al-Qamar. “No raising the dead. No
+forcing love. No undoing another’s free will. No wishing for more
+wishes, no wishing for alterations to the wish structure, no recursive
+loopholes, no cleverly phrased annexes, codicils, or interpretive
+addenda. Also, for reasons tedious and ancient, I cannot create an
+edible pastry containing its own legal explanation.”
+
+“That last one feels specific.”
+
+“Terrible century, let me tell you.”
+
+Lila nodded slowly. “And the catch?”
+
+At this the genie’s expression altered in a way she would later learn
+meant embarrassment attempting to disguise itself as grandeur.
+
+“There is,” he admitted, “one additional condition.”
+
+“Of course there is.”
+
+He cleared his throat. The sky dimmed politely.
+
+“My powers,” he said, “are vast beyond the telling before the wish, and
+vast beyond the telling after the wish.”
+
+“Uh-huh.”
+
+“During the wish,” he continued, “they are… unavailable.”
+
+Lila stared at him.
+
+“unavailable?”
+
+“I mean,” he said, with growing reluctance, “that when an actual wish is
+invoked and in the active process of being granted, I am not permitted
+to use magic.”
+
+Silence took a seat between them.
+
+One of the pigeons, having recovered, returned to the roof and made a
+doubtful noise.
+
+Lila said, “So you’re a genie who can’t grant wishes? You can’t use
+magic?”
+
+He raised one finger. “Only during the granting itself.” Qasr al-Qamar
+folded his arms, bells in his beard giving a prickly little jingle. “The
+covenant is quite ancient.”
+
+“Who made a covenant like that?”
+
+The genie gave a cosmic sigh which caused rose petals to whirl out of
+nowhere and then awkwardly settle in a rain gutter.
+
+“You must understand,” he said. “Outside the terms of a wish, I can
+summon monsoons, converse with comets, polish the moon, turn armies into
+biographies, weave palaces from moonlight—”
+
+“But if I wish for a palace?”
+
+“Then I must source labor, draft plans, acquire materials, pay bribes,
+deal with permits, negotiate with stonecutters, and likely form some
+kind of long term holding company.”
+
+Lila leaned against the alley wall and laughed so hard she nearly
+dropped the lamp.
+
+To his credit, Qasr al-Qamar waited with dignity while she recovered.
+
+“That,” she said at last, wiping her eyes, “is the funniest thing I’ve
+ever heard.”
+
+“It is not funny,” said the genie. “It is a sacred burden.”
+
+“It is extremely funny.”
+
+“It is actually quite majestic.”
+
+“It is majestic in a funny way.” Lila turned the lamp in her hands. “So
+what happens if I make a wish?”
+
+“I am bound to fulfill it.”
+
+“How?”
+
+“By whatever non-magical means are available to me while the wish
+remains in force.”
+
+“And after?”
+
+“Once fulfilled, magic resumes.”
+
+Lila thought about this. Watches were similar. They responded to patient
+intensity. She was clever, but not more clever than the universe. She
+thrived in the patient trades: balance wheels, springs, pinions, tiny
+screws that vanished forever if you thought about them too hard. She
+understood fragile mechanisms. The genie, she suspected, was one.
+
+“All right,” she said. “Let’s test it. Small wish.”
+
+The genie straightened. Jewels brightened. “Proceed\! O’ Master of the
+Lamp.”
+
+Lila considered many things. Gold. Security. A warm apartment. Rent for
+a year. Health. Time. Freedom from worry. But the alley was cold, and
+she mistrusted large-scale experiments.
+
+“I wish,” she said, “for a ham sandwich.”
+
+The universe inhaled.
+
+A golden number appeared in the sky: 1
+
+The genie jerked as if someone had unplugged the stars and all the grand
+effects vanished at once. No wind, no fire, no rubies, no trumpets. He
+dropped three feet, landed with a grunt, and stared at his empty hands.
+
+“Well,” he said.
+
+Lila looked around. “That’s it?”
+
+“That,” he said grimly, “is it.”
+
+He was still large, but now more materially large, like a stage actor
+after the show. The shimmer had left his robe. His beard bells no longer
+rang dramatically; they just tinkled when he moved. He patted himself
+down, found nothing sandwich-adjacent, and muttered something in a
+language that sounded like rugs being unrolled.
+
+“What are you doing?” Lila asked.
+
+“Granting the wish.”
+
+“By?”
+
+“Acquisition.”
+
+He strode from the alley.
+
+Lila hurried after him, lamp tucked under one arm.
+
+They crossed two streets and entered a corner deli where a man in an
+apron was arranging tomatoes with the solemnity of a nascent religious
+practice. He looked up as the gigantic turbaned figure entered and
+froze, one tomato in hand.
+
+Qasr al-Qamar approached the counter.
+
+“Good shopkeeper,” he said. “I require a single sandwich with your best
+pork.”
+
+The deli owner blinked. “On what?”
+
+“On success,” said the genie.
+
+“No, I mean white, rye, wheat—”
+
+“Ah.” The genie glanced helplessly at Lila.
+
+“Rye,” she said.
+
+“With mustard?” asked the owner.
+
+The genie turned again.
+
+“Yes,” said Lila.
+
+The owner assembled the sandwich slowly, keeping one eye on the genie at
+all times. When he named the price, Qasr al-Qamar reached into his
+sleeves, his sash, inside his collar, under one enormous jeweled cuff,
+and eventually produced a moth, a brass button, seventeen saffron
+threads, and the clasp from what was once the most expensive jeweled
+crown in the world.
+
+“I don’t have money,” he said.
+
+“You don’t have money,” echoed Lila.
+
+The deli owner folded his arms. “Then you don’t have a sandwich.”
+
+Qasr al-Qamar closed his eyes. “This humiliation,” he said softly, “is
+older than empires.”
+
+Lila paid the eleven dollars and twenty-four cents.
+
+Outside, the genie handed her the wrapped sandwich and with ceremony
+bordering on tragedy the golden number one reappeared overhead with a
+nice little check mark beside it.
+
+At once the air exploded with emerald radiance. Trumpets resumed. The
+genie surged upward to an impossible height on a cyclone of
+peacock-colored smoke, somehow more magnificent than before.
+
+“You see?” he cried. “The covenant is satisfied\!”
+
+Lila stared at the sandwich.
+
+“I spent my first wish on lunch.”
+
+“A grand universal transaction has occurred: You wished and I have made
+it so\!”
+
+“I paid.”
+
+“You participated.”
+
+She heard a dry chuckle leave her mouth.
+
+The genie settled a few feet lower. “It does count,” he said, less
+grandly.
+
+“Oh, I know.” Lila took a bite and chewed thoughtfully. “Actually, it
+tells me quite a bit.”
+
+His eyes narrowed. Qasr al-Qamar had spent centuries with kings,
+thieves, scholars, sailors, and once an unusually devious shepherd. He
+recognized a schemer when he saw one. “Be cautious,” he said. “Several
+of your culture’s legends' origins are due to the multitudes that have
+tried to outwit the covenant of the lamp.”
+
+“Did any succeed?”
+
+Qasr boomed with a thundering laugh. “Define success.”
+
+“Did any of them actually get what they wanted?”
+
+He considered. “The closest ended up with twenty-seven llamas, a minor
+principality, a mild case of herpes and a much deeper appreciation of
+the difficulties of global supply chain logistics.”
+
+“So no.”
+
+He looked annoyed.
+
+Lila took the lamp home.
+
+Her apartment was above the watch shop, up three flights of stairs that
+argued Marx with you every time you ascended. The ceiling leaked when it
+rained, the radiators banged like insulted ghosts, and the wallpaper had
+begun peeling in long curls that resembled maps of countries no one
+wanted to invade. Qasr al-Qamar, restored to his full supernatural
+splendor, outside the terms of any active wish, drifted through the
+rooms in a spectacularly offended fascination.
+
+“You live *here*?” he said.
+
+“I do.”
+
+“This would not satisfy even a low-quality baron.”
+
+“Eh.”
+
+The genie floated in front of the boiler and placed one hand near it.
+Instantly the rust flaked away, the pipes straightened, and the whole
+contraption shivered itself into gleaming, purring competence.
+
+Lila whirled. “I didn’t wish for that.”
+
+“You did not.” He moved to the window. Cracks sealed themselves. Drafts
+vanished. The frame polished into oak dark as honey. “I am not granting
+a wish.”
+
+He passed through the rooms like weather. Mold retreated. A missing tile
+reappeared in the bathroom. The bent lamp by her bed straightened and
+acquired a soft amber shade. He touched the ceiling and the leak was
+never there.
+
+Lila stood still. “You can just do this?”
+
+“I can do vastly more than this,” chuckled Qasr al-Qamar. “So long as it
+is not the direct fulfillment of an invoked wish.”
+
+She sat on the edge of her bed. “That is the stupidest rule I’ve ever
+heard.”
+
+“Yes,” he said, sad.
+
+He might have vanished back into the lamp then and left the matter at
+that, but Lila looked lonely in the way only another lonely person
+recognizes. Also, the genie had repaired her boiler without being asked.
+These are persuasive qualities.
+
+“Tea?” she offered.
+
+Qasr al-Qamar blinked.
+
+“I’m asking\! Do genies drink tea?”
+
+“Only the good ones.”
+
+They sat at her narrow table by the window: Lila with a chipped blue
+mug, Qasr al-Qamar with a teacup he conjured before she could stop him.
+Outside, rain began ticking against the glass. Inside, the apartment
+held warmth for the first time in months.
+
+“What would you wish for,” Lila asked after a while, “if you could?”
+
+The genie stared into his tea.
+
+He leaned back, cup cradled in both immense hands. “Freedom is the
+vulgar answer.”
+
+“Is it wrong?”
+
+“No. Merely common.” He smiled without showing teeth. “But if I am to be
+honest, I would wish to grant a wish properly. Just once. Fire, thunder,
+causality folded like silk. None of this procurement.”
+
+Lila nodded. “You want to be good at the thing you’re for.”
+
+He looked at her sharply before answering. “Yes,” he said.
+
+After that, he stayed.
+
+Not all the time. Sometimes he vanished into smoke to attend to obscure
+obligations, or argue with weather systems, or haunt antique mirrors for
+reasons he refused to explain. But he returned often. He fixed things in
+the apartment and the shop, though never so directly as to violate the
+covenant. He could not, for example, make customers appear in answer to
+her unspoken hopes. But he could brighten the brass sign out front so it
+caught the afternoon sun just right. He could send a favorable breeze
+carrying the scent of clock oil and cedar into the street. He could,
+entirely unrelated to any specific wish, whisper into the dreams of a
+retired railway engineer that his grandfather’s watch needed mending at
+precisely Lila’s address.
+
+Business improved.
+
+Three months later Lila had not used her second wish, and the genie had
+become somehow part of the architecture of her days. He sat on the shop
+counter reading eighteenth-century legal codes, laughing and pointing at
+them. He offered devastating commentary on customer manners. He
+magnified tiny gears with pinches of harmless starlight. He knew the
+true names of metals, the gossip of tides, and
+seventeen-hundred-thirty-seven recipes for lentil soup. He was vain,
+easily injured, theatrically eloquent, and unabashedly kind.
+
+Which was why, when trouble came, Lila did not think of it first as
+trouble. It was a man in a charcoal coat with a silver-headed cane. He
+arrived near closing time on a Thursday just when the late light was
+turning purple. He examined the shop with the expression of someone
+forced by law to visit a museum of spoons. He was perhaps fifty, played
+eighty, severe like a building fire, and when he smiled it looked like a
+receipt.
+
+“Miss Moreau,” he said dryly. “I represent Veylock Properties.”
+
+Lila didn’t look up and instead kept working on the clock in front of
+her. “Congratulations.”
+
+He did not enjoy that.
+
+“You are behind on your revised rent schedule.”
+
+“Its been three days.” her voice didn’t rise.
+
+“You are in breach.”
+
+“I’m catching up.”
+
+“You are inadequate collateral for delay.” He set a folded paper on the
+counter. “You will vacate within thirty days.”
+
+Lila’s hands didn’t stop.
+
+From the back room there came the faint jingle of beard bells.
+
+He tapped the paper twice in rapid succession. “One month.”
+
+When he left, the shop seemed smaller.
+
+Qasr al-Qamar emerged from the back room like a storm remembering the
+good ol’ days.
+
+“I could turn his bones into candlesticks,” he said.
+
+“Legally?”
+
+“Almost.”
+
+Lila sank onto her stool. The paper trembled in her hand. The building
+housed both the shop and her apartment. Lose one and she lost both. She
+had some savings now, more than before, but not enough to buy time from
+those bloodsuckers.
+
+“He means to renovate,” Qasr finally said. “He means to triple the rents
+and fill this street with boutiques selling artisanal perfumed soaps.”
+
+“That’s specific.”
+
+“I have seen cities die this way.”
+
+Lila folded the notice carefully. “I could make a wish.”
+
+The genie tilted its head slightly. “For money?”
+
+“Maybe.”
+
+He looked away. “How much?” he asked.
+
+Lila named the sum needed to secure the building if she moved fast
+enough and the owner proved vulnerable to greed, which owners often do.
+
+Qasr al-Qamar said nothing for a long moment as he seemed to be
+searching the cosmos.
+
+Then: “I can do it.”
+
+“Non-magically?”
+
+“Do not sound so delighted.”
+
+“I’m not delighted.”
+
+He paced the shop, robe muttering around his ankles.
+
+Finally he said, “What precisely would you wish?”
+
+Lila had learned from the sandwich. Precision mattered less than
+structure.
+
+She stood.
+
+“I wish,” she said slowly, “for enough lawful money to buy this building
+outright, free and clear, with all fees and taxes paid, placed under my
+sole ownership.”
+
+Again a golden number burned into the sky outside: 2.
+
+And the genie shuddered for the second time. Magic fell off him like a
+cloak dropped in haste as he again became merely an immense,
+overdressed, and alarmingly tangible guy.
+
+“Right,” he coughed. “No magic. Lawful. Fees and taxes included. Sole
+ownership. Clear title.”
+
+“Can you do it?”
+
+He bared his teeth.
+
+“My dear Lila,” he said, “I am before-and-after magnificent. During, I
+am industrious.”
+
+What followed became, in later years, one of her favorite stories to
+tell and nearly impossible for anyone to believe.
+
+Qasr al-Qamar sold his jewels first.
+
+Not the magical ones. Those snapped back into irrelevance when detached
+from his person. But certain ornaments, ancient and materially real, had
+accumulated over centuries: emerald cuff-links from a dethroned prince,
+a ruby broach won in a card game with a sea-king, three opals obtained
+during an unfortunate opera-related misunderstanding. He fenced none of
+them, because, as he said, “I will not have my legend discounted.” He
+went instead to a discreet auction house, where his sheer confidence
+easily overcame the staff’s many questions.
+
+Then he leveraged his knowledge.
+
+A genie cannot use magic during a wish, but he may still remember
+everything he knows. Qasr al-Qamar knew where a lost cache of negotiable
+bonds had been hidden in 1911 behind a false wall in a theater cellar
+now used for improv comedy. He knew which collector had spent twenty
+years searching for a specific astrolabe currently miscataloged in a
+maritime warehouse in Newark. He knew the full original text of a treaty
+whose missing clause would settle an inheritance dispute worth a fortune
+if produced before arbitration closed on Monday.
+
+It was appallingly competent.
+
+For six days they did not sleep.
+
+Lila skipped work. She drove everywhere because the genie refused to
+learn; He considered traffic lights a “petty tyranny.” They met
+archivists, brokers, heirs, lawyers, appraisers, one retired forger who
+had repented into respectable typography, and a woman named Denise who
+ran a document retrieval service out of a laundromat and asked precisely
+zero questions.
+
+The genie, deprived of magic, somehow had become more formidable. He
+could not conjure, so he persuaded. He could not compel, so he
+understood. He knew how greed liked to be greeted, how vanity liked to
+be seated, how bureaucracy liked its forms flattened and its officials
+flattered. He strode into rooms and made people feel they had been
+awaiting him for years.
+
+Occasionally he failed: A deal collapsed, a courier lied, a banker
+attempted to improve terms. Qasr al-Qamar took each insult very
+personally and used the resulting energy as fuel.
+
+By the seventh day they had most of the sum, but not all. Night had
+fallen. Rain silvered the street outside the shop. The deadline for the
+building sale was nine the next morning.
+
+Lila sat at the counter amid paper towers and cold coffee.
+
+“We’re short,” she said, exhausted.
+
+The genie stood by the window, hands clasped behind him.
+
+“Yes.” He named the number. It was not impossible. It was worse:
+possible only for people whose lives already contained such numbers.
+
+Lila laughed once, without humor. “So that’s it.”
+
+“No.”
+
+She looked up. “You have another angle?”
+
+He turned, and for the first time since she had known him, he seemed
+stripped of not magic but theater.
+
+“I have the lamp,” he said.
+
+She stared. “What?”
+
+“It is old. Powerful. Desirable. There are collectors of enchanted
+objects, scholars of binding craft, institutions with locked vaults and
+bad ethics. I know three buyers.”
+
+“You can sell the lamp?”
+
+“I can sell anything.”
+
+“But then—”
+
+“Yes,” he said.
+
+The lamp sat on the shelf above the register, dull brass reflecting the
+rain-streaked lights. She had never really thought of it as an object
+apart from him. It was just how he arrived, how he left, the strange
+hinge of this new life. Sell it, and he would go with it. Not by magic;
+by contract. Lamps, like houses, obey possession.
+
+“That’s not happening,” she said.
+
+“It is sufficient.”
+
+“No.”
+
+“It fulfills the wish.”
+
+“I don’t care.”
+
+He smiled sadly. “The covenant does.”
+
+Lila stood so fast her stool hit the floor.
+
+“I wish for money, not for you to disappear into some billionaire’s
+vault.”
+
+“That is cosmically irrelevant.”
+
+“Then cosmic law can choke.”
+
+“Lila.”
+
+“No.”
+
+He stepped closer. Without magic he had weight, breath, tiredness around
+the eyes. “You made the wish.”
+
+“And I’m telling you not to do it.”
+
+“It is not permitted to revoke an active wish.”
+
+“Then I’m amending it.”
+
+“It is not permitted to amend an active wish.”
+
+She hated that he was right.
+
+Rain tapped the window harder.
+
+The genie looked at the lamp, then back at her. “I am what I am.”
+
+“No,” said Lila, and now her voice shook. “You are what you are before
+and after, remember? You told me. During is just the ugly middle.”
+
+And a gear found its true tooth. He laughed, softly at first, then
+harder, bending at the waist, beard bells shaking.
+
+“What?” she demanded.
+
+He straightened, still smiling. “The loophole,” he said.
+
+“There isn’t one.”
+
+“There is, and it is idiotic, which is the preferred architecture of
+fate.” He seized the notice, the contracts, the stack of financial
+papers. “Your wish binds me to procure lawful money sufficient for
+purchase. It does not bind me to procure it by alienating the lamp if
+there remains any non-magical method whatsoever.”
+
+“We don’t have another method.”
+
+He flashed the old, dangerous smile. “No magical method.”
+
+Before she could ask what he meant, he grabbed the lamp, thrust it into
+her hands, and said, “Do not wish. Not a syllable.”
+
+Then he vanished.
+
+Not in a puff of smoke. He sprinted. Down the stairs, out into the rain,
+enormous flowing robe hitched in both hands, a furious duke late for
+war. Lila reached the corner in time to see him plunge into the street
+toward Veylock Properties’ office across the square. The story later
+describes what followed as “the event.”
+
+Qasr al-Qamar, still under wish-binding and therefore fully non-magical,
+marched into the office, demanded to see Mr. Veylock himself, and when
+denied, stood in the exact center of the lobby and began reciting, from
+memory, the complete documented history of every unlawful coercive
+acquisition made by the company or its subsidiaries over the last
+twenty-three years.
+
+Names. Dates. shell corporations. altered inspection reports. side
+payments. forged accessibility exemptions. bribed assessors. Not one
+supernatural revelation among them; all things he had learned the hard
+way while existing adjacent to human greed for centuries. He recited
+loudly. Secretaries froze. Tenants in the building above came
+downstairs. A local reporter, tipped off by Denise from the laundromat,
+because apparently everyone had chosen a side, arrived with a camera.
+
+By midnight Veylock himself had come down.
+
+By one he was sweating.
+
+At five thirty, cornered not by sorcery but by exposure, liability, and
+the sudden appearance of three former plaintiffs with renewed interest,
+he agreed to sell the building at a price that converted his disgrace
+into liquidity.
+
+At eight forty-seven, in the office of an exhausted attorney who kept
+staring at Qasr al-Qamar’s turban as though it might become a
+class-action suit, the sale closed.
+
+The remaining shortfall was covered by a same-morning consortium of
+neighborhood merchants who, it turned out, preferred a watchmaker and
+her inexplicable giant friend to artisanal soap. Loans were signed. Fees
+and taxes were paid.
+
+The final paper slid across the desk.
+
+Lila signed.
+
+A golden number two burst into the rain-bright morning sky outside the
+office windows with a brilliant checkmark next to it.
+
+And the city rang.
+
+Windows blazed with reflected green fire. Thunder unfurled in a
+cloudless band above the rooftops. Trumpets shook pigeons from every
+ledge in three blocks. Qasr al-Qamar rose into the air in a torrent of
+gold and blue and impossible music, more radiant than the day she had
+first seen him.
+
+He descended slowly until he hovered eye-level with her in the
+attorney’s office. The lawyer fainted. This did not diminish the
+moment.
+
+Months later, the building had a new roof, fair rents upstairs, and a
+lease policy written by Lila with input from six tenants, one
+neighborhood grocer, and a genie who held militant opinions on the
+importance of continued boiler maintenance. The watch shop expanded into
+the adjacent unit and business was good. The lamp sat on a shelf near
+the back, polished now, not hidden.
+
+Lila still had one wish left. She did not use it quickly.
+
+This astonished Qasr al-Qamar, who had known emperors unable to wait
+through dessert. But she said a final wish should be either necessary or
+beautiful, and she was in no hurry to decide which.
+
+One evening in early autumn, with the windows open and the city
+breathing below, they sat in the shop after closing. The clocks ticked
+around them like a hundred small approvals.
+
+“Have you chosen?” the genie asked off-handedly.
+
+“No. Not yet.”
+
+He nodded. “Good.”
+
+Outside, the streetlights came on one by one, as if someone were making
+very careful wishes.

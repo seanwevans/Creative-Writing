@@ -1,0 +1,345 @@
+# I.
+
+The thing about Quincy Magoo was that he had never once been injured by
+a moving vehicle, despite having walked into traffic on four continents.
+Charles Brewer Brown had watched him do it twice in the last forty
+minutes. Both times a city bus had swerved, clipped a hydrant, and
+sprayed water across the intersection in a way that Magoo interpreted as
+"a little mist off the harbor."
+
+"Refreshing," Magoo said, dabbing his forehead with a restaurant napkin
+he had mistaken for a handkerchief.
+
+Brown said nothing. He had learned, over the eleven months of their
+acquaintance, that narrating the danger accomplished nothing. Magoo did
+not reject the information. He simply could not receive it. The
+frequency was wrong. It was like shouting weather reports at a man who
+did not believe in sky.
+
+They were walking to a bank. Magoo needed to deposit a check. The check
+was from a literary magazine that had published, by accident, a piece
+Magoo had submitted to what he believed was a raffle. The piece was four
+hundred words about his morning routine and it had been received by the
+editors as "a devastating parody of the quotidian." It paid six hundred
+dollars.
+
+Brown had been writing seriously for nine years and had earned, in
+total, eighty dollars and a tote bag.
+
+# II.
+
+They had met at a bereavement support group, which Magoo had attended
+because he thought it was a bird-watching club. The meeting was held in
+the basement of a Unitarian church. A facilitator named Dana asked
+everyone to share what had brought them there.
+
+"Warblers," said Magoo, confidently.
+
+Dana, who was very good at her job, said, "Tell us more about that."
+
+Magoo told a seven-minute story about a yellow bird that used to sit on
+his kitchen windowsill every morning until one day it didn't. The room
+was silent. A woman across the circle began to cry. The man next to
+Brown whispered, "Jesus Christ, that's the most beautiful thing I've
+ever heard anyone say in here."
+
+Brown had come because his dog had died. He said so. People nodded
+kindly. Dana said, "Thank you, Charles." It was adequate. It was the
+correct and expected response to a correct and expected grief.
+
+After the meeting, Magoo approached Brown in the parking lot and said,
+"Did you see the one with the red breast? I think it was a finch."
+
+"That was a woman in a red sweater," Brown said.
+
+"Magnificent plumage," said Magoo.
+
+Brown drove him home because Magoo's license had been revoked in 2009
+after he drove the wrong way on an on-ramp and emerged, untouched, on
+the far side of a construction zone that two other drivers had been
+stuck in for an hour. His car had been towed three weeks earlier from a
+spot he still believed it occupied. Every morning, he walked to where it
+had been, patted the air approximately where the hood would be, and
+said, "Starting right up today." Then he walked wherever he was going.
+
+# III.
+
+Brown understood, with the kind of clarity that made his life
+specifically difficult, that Magoo was not stupid. Stupidity was a
+failure of processing. Magoo processed beautifully. He reasoned,
+inferred, deduced. He could do the crossword in pen. He simply operated
+on input that bore no reliable relationship to the external world.
+
+It was as if he had been issued, at birth, a different dataset. His
+senses reported a world that was four degrees off true in every
+direction, and within that tilted world, he was entirely competent. The
+bus was harbor mist. The bereavement group was bird-watching. The towed
+car was a functioning car. Inside each of these errors, his behavior was
+rational, consistent, even graceful.
+
+Brown, by contrast, saw the bus. He saw the grief. He saw the empty
+parking spot. He saw all of it, all the time, with the exhausting
+fidelity of a man who could not stop the world from arriving correctly.
+
+He had seen the layoff coming four months in advance. He had documented
+it in emails. The emails were used, later, to establish that he had been
+"difficult."
+
+He had seen his marriage failing. He had suggested counseling. The
+counselor concluded, after six sessions, that Brown's problem was "an
+inability to stop monitoring the relationship."
+
+Seeing was not surviving. That was the lesson, and Brown had learned it,
+and learning it had not helped, which was itself a kind of proof.
+
+# IV.
+
+The bank was three blocks east. Magoo turned west.
+
+"Quincy. The bank is the other way."
+
+"Nonsense. I've been going to this bank for thirty years."
+
+"You've been going to a dry cleaner for thirty years."
+
+"They remodeled."
+
+Brown followed. This was the mechanism. He could see the error; Magoo
+could not. But Magoo moved with the frictionless momentum of total
+certainty, and Brown, weighed down by accurate perception, could not
+generate enough counterforce to alter the trajectory. So they went west.
+
+The dry cleaner was closed. A sign on the door said BACK IN 15 MINUTES.
+It had said this for two years.
+
+Magoo examined the sign and said, "Prompt."
+
+He pushed the door. It opened, because the lock had been broken since
+March. Inside, the shop was empty except for a long counter, a rack of
+plastic-sheathed garments no one had claimed, and a cat.
+
+Magoo walked to the counter, produced his check, and placed it on the
+surface.
+
+"I'd like to deposit this," he said to the cat.
+
+"Savings," he clarified.
+
+Brown stood in the doorway and felt the specific despair of watching a
+man conduct business with a cat in an abandoned dry cleaner.
+
+Within forty-eight hours, the dry cleaner reopened. The owner, a Latvian
+man named Guntis, had been in a custody dispute for two years and had
+simply stopped coming in. That week, the dispute settled. He returned.
+He found Magoo's check on the counter, assumed it was payment for one of
+the unclaimed garments, and gave Magoo a herringbone overcoat that
+turned out to be worth sixteen hundred dollars.
+
+Magoo wore it every day. It fit perfectly.
+
+"You deposited a check and received a coat," Brown said.
+
+"That's banking for you," said Magoo.
+
+# V.
+
+Magoo mailed letters to his sister in Phoenix three times a week. His
+sister had been dead for eleven years. The letters were being received
+by a retired schoolteacher named Patricia who had moved into the
+sister's old apartment and who found them — mostly about the weather and
+what Magoo had eaten — charming enough to keep.
+
+Patricia wrote back. Magoo believed he was corresponding with his
+sister. Patricia believed she was participating in a creative writing
+exercise with an elderly stranger. Both were content.
+
+Sometimes, lately, Magoo would pause mid-errand and go quiet in a way
+that didn't track with the usual obliviousness. He'd stop in front of a
+storefront or a bench and just stand there, not confused, not cheerful,
+just still. Brown couldn't tell if he was seeing something he didn't
+normally see or feeling something he didn't normally feel. It never
+lasted more than a few seconds. Then the tilt reasserted itself and he'd
+say something about the architecture or the harbor, and they'd keep
+walking.
+
+Brown noticed every time. He didn't know what to do with it.
+
+# VI.
+
+Magoo wanted to visit his sister. Brown, who knew the sister was dead
+but also knew that Patricia was genuinely expecting Magoo's arrival
+based on a letter that said "I'll come Tuesday," agreed to drive.
+
+The drive was fourteen hours. On the highway, Magoo narrated.
+
+"This is the route Eisenhower intended," he said, pointing at a Wendy's.
+
+"Beautiful country," he said, pointing at an oil refinery.
+
+Brown drove. The road was correct beneath him. The signs said what they
+meant. The exits led where they claimed. And somehow this accuracy did
+not make the journey easier. He was the only one carrying the actual
+weight of the distance.
+
+Magoo fell asleep near Albuquerque and woke up in Phoenix and said,
+"Short trip."
+
+# VII.
+
+Patricia answered the door. She was seventy-three, thin, wore reading
+glasses on a chain, and had clearly been expecting someone, though
+perhaps not exactly this.
+
+"Margaret\!" said Magoo, and embraced her.
+
+Patricia looked over Magoo's shoulder at Brown. Brown made a face that
+he hoped communicated the entire situation. Patricia made a face that
+suggested she had already figured it out, possibly years ago.
+
+"Come in, come in," she said. "I made the casserole you like."
+
+She had, in fact, made a casserole based on a recipe Magoo had mentioned
+in a letter. It was extraordinary. It was the best thing Brown had eaten
+in a year. He sat at the table and felt something loosen behind his
+sternum, which he identified, after a moment, as the unfamiliar
+sensation of being inside a situation that was going well despite being
+entirely wrong.
+
+Magoo ate three servings. Patricia watched him with an expression Brown
+could not classify. It was not love. It was not pity. It was something
+closer to custodianship: the look of a person who has agreed to maintain
+a small, harmless fiction because the fiction sustains something she
+does not wish to see collapse.
+
+After dinner, Magoo sat on the porch and looked at the desert.
+
+"Margaret's done well for herself," he said.
+
+Brown sat next to him. The sky was enormous. Somewhere, a coyote made a
+sound that was probably not about them.
+
+"She has," Brown said.
+
+It was the first lie he had told in years, and it came out easily, and
+he could not decide if that was a failure or a concession or the first
+thing he had gotten right.
+
+# VIII.
+
+They stayed three days. On the second day, Brown fixed Patricia's screen
+door, unclogged her kitchen sink, and replaced a smoke detector battery.
+These were tasks he was good at. Small, specific, diagnosable problems
+with clear solutions that actually held. He worked quietly and well and
+felt, for a few hours, like a person whose competence had consequences.
+
+Patricia told him, while Magoo napped, that the letters were the best
+part of her week.
+
+"He thinks I'm his sister," she said.
+
+"I know."
+
+"She must have been a good woman."
+
+"I don't know. I never met her."
+
+"He talks about her like she's the only good thing that ever happened to
+him."
+
+"He talks about everything like it's the only good thing that ever
+happened to him."
+
+Patricia considered this. "That must be exhausting to be around."
+
+"You have no idea."
+
+"Or wonderful."
+
+Brown looked at her. She was not wrong. That was the problem. She was
+not wrong, and he was not wrong, and both things were true
+simultaneously, and this was the kind of observation that had never once
+helped him but which he could not stop making.
+
+# IX.
+
+On the drive home, Magoo was quiet for a long time. Brown almost enjoyed
+it. The desert scrolled past, golden and indifferent, and for a while
+neither of them needed to be anything.
+
+Then Magoo said, "She's getting older."
+
+"Yes."
+
+"I worry about her."
+
+Brown gripped the wheel. He could feel it: the edge of something real
+seeping through the four-degree tilt. Not correction. Not clarity. Just
+pressure.
+
+"Do you ever worry," Magoo said, "that you're not doing enough for the
+people who matter?"
+
+Brown looked at him. Magoo was staring straight ahead, at a road he
+probably saw as something else — a river, a runway, a long hallway in a
+building that no longer existed.
+
+"All the time," Brown said.
+
+"Mm," said Magoo. "I think that's normal."
+
+Then he fell asleep.
+
+Brown drove through the night. And somewhere around Las Cruces, he
+realized that Magoo had asked the only question that mattered, and that
+he, Brown, who saw everything, had never once thought to ask it of
+himself.
+
+He had been so busy seeing the danger that he had forgotten to check
+whether he was doing enough for the people who mattered.
+
+The road went on. Magoo snored. The coat was folded neatly in the back
+seat. The check had never been deposited. The sister was still dead. The
+desert did not care.
+
+# X.
+
+He called Patricia a week later.
+
+"How are you?" he asked.
+
+"Fine, fine. Your friend sent another letter. He says the harbor is
+beautiful this time of year."
+
+Brown lived in Ohio. There was no harbor.
+
+"It is," he said.
+
+He hung up. He sat in his kitchen. His dog was still dead. His mortgage
+was still wrong. The world was still arriving, correctly and
+relentlessly, and he was still the man who could see it coming and not
+stop it.
+
+But he had driven fourteen hours for a man who thought a dry cleaner was
+a bank. He had eaten casserole with a stranger who maintained a dead
+woman's correspondence out of kindness. He had lied about a harbor. He
+had fixed a screen door.
+
+Maybe that was enough. Probably it wasn't. But he was learning, slowly,
+that the opposite of Magoo's blindness was not his own clarity.
+
+The opposite of Magoo's blindness was Magoo's motion.
+
+And the opposite of Brown's paralysis was not better seeing.
+
+It was going west when the bank was east, and finding, in the wreckage
+of the wrong direction, something that could not have been found any
+other way.
+
+He put on his coat — not the herringbone, which was Magoo's, but his
+own, which was ordinary and paid for — and went outside, where the world
+was accurate and indifferent and contained, somewhere in its machinery,
+the next thing that would happen to him, which he would see coming, and
+which would not matter, and which he would survive, not because he was
+wise, but because a blind man in a stolen coat had once asked him if he
+was doing enough, and he had not known the answer, and that not-knowing
+had been, for the first time in his life, the right place to stand.
